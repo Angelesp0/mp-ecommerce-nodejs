@@ -1,13 +1,13 @@
 {
   "name": "mp-ecommerce-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "hola",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "hola",
   "license": "ISC",
   "dependencies": {
     "express-handlebars": "^3.1.0"
